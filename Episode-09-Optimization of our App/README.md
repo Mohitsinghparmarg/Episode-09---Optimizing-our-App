@@ -105,10 +105,11 @@ Here's how Suspense works:
 
 
 ## lazy loading has  multiple names as following below
-Chunking,
-Code Splitting,
-Dynamic Bundling,
-Dynamic import,
-lazy Loading
-on demand loading -> whenever the user is going to the particular page then only load that page.
-lazy() is used to distributing the application into smaller smaller chunks and this makes our application very performant.
+
+      Chunking,
+      Code Splitting,
+      Dynamic Bundling,
+      Dynamic import,
+      lazy Loading
+      on demand loading -> whenever the user is going to the particular page then only load that page.
+      lazy() is used to distributing the application into smaller smaller chunks and this makes our application very performant.
